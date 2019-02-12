@@ -2,6 +2,6 @@
 # URL: https://app.rollout.io/ex/5c6326d7af23cf07f9bcf04f
 type: experiment
 name: case log records
-description: 'sending '
+description: sending a re
 flag: SIMPL-Flags.caseLogRecords
 value: false
