@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5c6326bd5cd82d07da626b57
+type: experiment
+name: case log records
+flag: SIMPL-Flags.caseLogRecords
+value: false
