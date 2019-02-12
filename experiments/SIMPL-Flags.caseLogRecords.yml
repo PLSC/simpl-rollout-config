@@ -3,4 +3,4 @@
 type: experiment
 name: case log records
 flag: SIMPL-Flags.caseLogRecords
-value: false
+value: true
