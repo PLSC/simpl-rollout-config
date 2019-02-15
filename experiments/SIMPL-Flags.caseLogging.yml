@@ -3,10 +3,4 @@
 type: experiment
 name: case logging
 flag: SIMPL-Flags.caseLogging
-conditions:
-  - group:
-      name: U of M Users
-    value:
-      - percentage: 10
-        option: true
 value: false
