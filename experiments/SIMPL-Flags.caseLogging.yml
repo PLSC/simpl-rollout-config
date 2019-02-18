@@ -4,4 +4,4 @@ type: experiment
 name: case logging
 description: ACGME Case Logging Feature
 flag: SIMPL-Flags.caseLogging
-value: true
+value: false
