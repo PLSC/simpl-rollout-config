@@ -2,6 +2,6 @@
 # URL: https://app.rollout.io/ex/5c619f8a5cd82d07da62312c
 type: experiment
 name: case logging
-description: ACGME Case L
+description: ACGME Case Logging Feature
 flag: SIMPL-Flags.caseLogging
 value: true
