@@ -6,6 +6,8 @@ description: ACGME Case Logging Feature
 flag: SIMPL-Flags.caseLogging
 conditions:
   - group:
-      name: Mich GS Top Ten Residents
+      name:
+        - Mich GS Top Ten Residents
+        - Research Standing Committee
     value: true
 value: false
