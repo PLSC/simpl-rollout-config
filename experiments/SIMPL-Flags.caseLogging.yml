@@ -4,4 +4,8 @@ type: experiment
 name: case logging
 description: ACGME Case Logging Feature
 flag: SIMPL-Flags.caseLogging
+conditions:
+  - group:
+      name: Mich GS Top Ten Residents
+    value: true
 value: false
