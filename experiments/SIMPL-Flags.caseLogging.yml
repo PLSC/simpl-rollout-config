@@ -9,5 +9,6 @@ conditions:
       name:
         - Mich GS Top Ten Residents
         - Research Standing Committee
+        - Other willing testers
     value: true
 value: false
