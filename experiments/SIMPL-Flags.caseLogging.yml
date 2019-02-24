@@ -6,6 +6,9 @@ description: ACGME Case Logging Feature
 flag: SIMPL-Flags.caseLogging
 conditions:
   - group:
+      name: Internal & Test Accounts
+    value: true
+  - group:
       name:
         - Mich GS Top Ten Residents
         - Research Standing Committee
