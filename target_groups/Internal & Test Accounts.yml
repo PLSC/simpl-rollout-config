@@ -1,0 +1,7 @@
+type: target-group
+name: Internal & Test Accounts
+description: Internal users and test accounts.
+conditions:
+  - operator: regex
+    property: user_email
+    operand: brad@grio.com
