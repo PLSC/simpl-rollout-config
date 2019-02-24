@@ -2,6 +2,7 @@ type: target-group
 name: Internal & Test Accounts
 description: Internal users and test accounts.
 conditions:
-  - operator: regex
+  - operator: in-array
     property: user_email
-    operand: brad@grio.com
+    operand:
+      - brad@grio.com
