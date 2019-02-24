@@ -10,5 +10,6 @@ conditions:
         - Mich GS Top Ten Residents
         - Research Standing Committee
         - Other willing testers
+        - Internal & Test Accounts
     value: true
 value: false
