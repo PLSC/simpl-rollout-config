@@ -6,3 +6,4 @@ conditions:
     property: user_email
     operand:
       - brad@grio.com
+      - gwnuk@med.umich.edu
