@@ -1,0 +1,10 @@
+type: target-group
+name: Other willing testers
+description: So far people recommended by the RAC to also test case logging (2/21/2019) GW
+conditions:
+  - operator: in-array
+    property: user_email
+    operand:
+      - emily.cerier@northwestern.edu
+      - askiball@med.umich.edu
+      - mbamdad@med.umich.edu
