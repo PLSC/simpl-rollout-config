@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5c76dd720fe03576b7db238a
+type: experiment
+name: vitals study participant
+flag: SIMPL-Flags.vitalsStudyParticipant
+value: false
