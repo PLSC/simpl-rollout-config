@@ -5,6 +5,6 @@ name: vitals study participant
 flag: SIMPL-Flags.vitalsStudyParticipant
 conditions:
   - group:
-      name: Vitals Participants
+      name: Andy Test Program
     value: true
 value: false
