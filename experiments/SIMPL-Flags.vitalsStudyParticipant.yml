@@ -3,4 +3,7 @@
 type: experiment
 name: vitals study participant
 flag: SIMPL-Flags.vitalsStudyParticipant
+conditions:
+  - group:
+      name: Vitals Participants
 value: false
