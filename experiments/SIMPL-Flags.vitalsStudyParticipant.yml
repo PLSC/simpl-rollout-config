@@ -3,4 +3,8 @@
 type: experiment
 name: vitals study participant
 flag: SIMPL-Flags.vitalsStudyParticipant
+conditions:
+  - group:
+      name: Andy Test Program
+    value: true
 value: false
