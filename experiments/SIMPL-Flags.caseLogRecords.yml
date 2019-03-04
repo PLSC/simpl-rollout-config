@@ -3,6 +3,7 @@
 type: experiment
 name: case log records
 description: sending a record of an instance of case logging to the SIMPL backend
+enabled: false
 flag: SIMPL-Flags.caseLogRecords
 conditions:
   - dependency:
