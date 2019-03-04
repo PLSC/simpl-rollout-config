@@ -3,4 +3,4 @@ name: Andy Test Program
 conditions:
   - operator: regex
     property: user_programs
-    operand: Andy Test Program
+    operand: Andy Test
