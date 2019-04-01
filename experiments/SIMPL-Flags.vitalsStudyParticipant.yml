@@ -6,4 +6,5 @@ flag: SIMPL-Flags.vitalsStudyParticipant
 conditions:
   - group:
       name: Vitals Participants
+    value: true
 value: false
