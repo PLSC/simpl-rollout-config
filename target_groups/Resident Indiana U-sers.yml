@@ -1,10 +1,14 @@
 type: target-group
 name: Resident Indiana U-sers
 description: All Indiana University GS SIMPL-using residents
+operator: or
 conditions:
-  - operator: in-array
+  - operator: regex
     property: user_email
-    operand:
-      - '@iu.edu'
-      - '@iupui.edu'
-      - '@indiana.edu'
+    operand: '@indiana.edu'
+  - operator: regex
+    property: user_email
+    operand: '@iupui.edu'
+  - operator: regex
+    property: user_email
+    operand: '@iu.edu'
