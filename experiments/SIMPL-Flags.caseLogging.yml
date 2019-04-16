@@ -13,5 +13,6 @@ conditions:
         - Internal & Test Accounts
         - U of M Users
         - Resident Indiana U-sers
+        - Minnesota GS Testers
     value: true
 value: false
