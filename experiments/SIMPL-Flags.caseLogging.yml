@@ -14,5 +14,6 @@ conditions:
         - U of M Users
         - Resident Indiana U-sers
         - Minnesota GS Testers
+        - UTHSCSA- GS All
     value: true
 value: false
