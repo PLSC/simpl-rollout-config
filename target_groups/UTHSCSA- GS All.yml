@@ -1,0 +1,7 @@
+type: target-group
+name: UTHSCSA- GS All
+description: All UTHSCSA GS residents- added by GW 4/18/2019
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@uthscsa.edu'
