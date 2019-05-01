@@ -1,0 +1,7 @@
+type: target-group
+name: Ped Surg at BCH
+description: BCH Ped Surg fellowship GW 2019.05.01
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@childrens.harvard.edu'
