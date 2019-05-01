@@ -4,20 +4,6 @@ description: >-
   Via Matt Bobel, here are top UMN SIMPL users who will beta case logs at UMN
   before things are rolled out to everyone. GW 4/16/2019
 conditions:
-  - operator: in-array
+  - operator: regex
     property: user_email
-    operand:
-      - boat0022@umn.edu
-      - free0316@umn.edu
-      - zbergman@umn.edu
-      - finn@umn.edu
-      - jljensen@umn.edu
-      - bauma292@umn.edu
-      - mcelr051@umn.edu
-      - goett034@umn.edu
-      - bclyle@umn.edu
-      - mokly001@umn.edu
-      - miotk002@umn.edu
-      - jahan023@umn.edu
-      - Macmoore@umn.edu
-      - bobel@umn.edu
+    operand: '@umn.edu'
