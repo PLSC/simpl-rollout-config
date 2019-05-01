@@ -1,9 +1,0 @@
-type: target-group
-name: Minnesota GS Testers
-description: >-
-  Via Matt Bobel, here are top UMN SIMPL users who will beta case logs at UMN
-  before things are rolled out to everyone. GW 4/16/2019
-conditions:
-  - operator: regex
-    property: user_email
-    operand: '@umn.edu'
