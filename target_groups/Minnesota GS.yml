@@ -1,0 +1,7 @@
+type: target-group
+name: Minnesota GS
+description: 'Via Matt Bobel, UMN, everyone. GW 4/30/2019'
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@umn.edu'
