@@ -1,0 +1,14 @@
+type: target-group
+name: University of Illinois- Peoria- GS
+description: |-
+  All UICPeoria gs residents* GW 2019.05.01 
+
+  And maybe some more from other programs?
+operator: or
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@yahoo.com'
+  - operator: regex
+    property: user_email
+    operand: '@gmail.com'
