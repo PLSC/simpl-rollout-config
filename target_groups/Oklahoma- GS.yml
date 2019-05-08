@@ -1,0 +1,7 @@
+type: target-group
+name: Oklahoma- GS
+description: All Residents at OUHSC GW 2019.05.08
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@ouhsc.edu'
