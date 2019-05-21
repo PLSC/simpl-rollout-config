@@ -1,0 +1,7 @@
+type: target-group
+name: GS at University of Florida
+description: All residents at the university of Florida. GW 2019.05.20
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@surgery.ufl.edu'
