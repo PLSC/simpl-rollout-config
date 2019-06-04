@@ -1,0 +1,7 @@
+type: target-group
+name: Carilion Clinic- GS
+description: All Carilion Clinic Residents- GW 2019.06.04
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@carilionclinic.org'
