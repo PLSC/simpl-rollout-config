@@ -4,6 +4,11 @@ type: experiment
 name: case log records
 description: sending a record of an instance of case logging to the SIMPL backend
 flag: SIMPL-Flags.caseLogRecords
+platforms:
+  - name: iOS
+    value: false
+  - name: Android
+    value: false
 conditions:
   - dependency:
       flag: SIMPL-Flags.caseLogging
