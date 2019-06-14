@@ -1,0 +1,13 @@
+type: target-group
+name: Ascension Providence Neurosurg
+operator: or
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@michiganspineandbrainsurgeons.com'
+  - operator: regex
+    property: user_email
+    operand: '@vt.edu'
+  - operator: regex
+    property: user_email
+    operand: '@gmail.com'
