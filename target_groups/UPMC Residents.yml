@@ -1,0 +1,7 @@
+type: target-group
+name: UPMC Residents
+description: All users with @upmc.edu email
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@upmc.edu'
