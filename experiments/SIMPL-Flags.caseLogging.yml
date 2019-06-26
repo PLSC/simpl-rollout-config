@@ -23,5 +23,6 @@ conditions:
         - SUNY Upstate GS residents
         - Ascension Providence Neurosurg
         - UC-Irvine- GS
+        - UPMC Residents
     value: true
 value: false
