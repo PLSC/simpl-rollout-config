@@ -1,0 +1,7 @@
+type: target-group
+name: Stanford- All
+description: All Stanford residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@stanford.edu'
