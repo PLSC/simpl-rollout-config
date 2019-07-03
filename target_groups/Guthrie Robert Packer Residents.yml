@@ -1,0 +1,7 @@
+type: target-group
+name: Guthrie Robert Packer Residents
+description: Guthrie Robert Packer Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@guthrie.org'
