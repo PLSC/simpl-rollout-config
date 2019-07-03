@@ -24,5 +24,6 @@ conditions:
         - Ascension Providence Neurosurg
         - UC-Irvine- GS
         - UPMC Residents
+        - SIU users
     value: true
 value: false
