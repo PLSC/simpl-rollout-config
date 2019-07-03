@@ -25,5 +25,6 @@ conditions:
         - UC-Irvine- GS
         - UPMC Residents
         - SIU users
+        - Rochester
     value: true
 value: false
