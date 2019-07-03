@@ -1,0 +1,7 @@
+type: target-group
+name: Rochester
+description: All Rochester trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@URMC.rochester.edu'
