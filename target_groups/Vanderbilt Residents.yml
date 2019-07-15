@@ -1,0 +1,11 @@
+type: target-group
+name: Vanderbilt Residents
+description: All Vanderbilt Residents GW 2019.07.15
+operator: or
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@vanderbilt.edu'
+  - operator: regex
+    property: user_email
+    operand: '@vumc.org'
