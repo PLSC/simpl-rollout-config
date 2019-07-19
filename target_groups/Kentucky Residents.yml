@@ -4,4 +4,4 @@ description: All Kentucky residents
 conditions:
   - operator: regex
     property: user_email
-    operand: '@uk.edu'
+    operand: '@uky.edu'
