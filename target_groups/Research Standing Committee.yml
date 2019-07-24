@@ -1,0 +1,14 @@
+type: target-group
+name: Research Standing Committee
+description: 'PLSC RAC members who are able to test things. '
+conditions:
+  - operator: in-array
+    property: user_email
+    operand:
+      - heather.a.lillemoe@Vanderbilt.Edu
+      - rscully2@bwh.harvard.edu
+      - bobel013@umn.edu
+      - borsookj@upstate.edu
+      - Shanley.Deal@virginiamason.org
+      - tim.horrell@uky.edu
+      - ryan.campagna@northwestern.edu
