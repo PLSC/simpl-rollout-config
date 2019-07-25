@@ -30,5 +30,6 @@ conditions:
         - Stanford- All
         - Vanderbilt Residents
         - Kentucky Residents
+        - All NU Residents
     value: true
 value: false
