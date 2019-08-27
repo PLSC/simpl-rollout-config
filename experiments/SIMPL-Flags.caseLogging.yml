@@ -31,5 +31,6 @@ conditions:
         - Vanderbilt Residents
         - Kentucky Residents
         - All NU Residents
+        - Wake Forest-All
     value: true
 value: false
