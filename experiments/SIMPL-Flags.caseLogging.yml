@@ -32,5 +32,6 @@ conditions:
         - Kentucky Residents
         - All NU Residents
         - Wake Forest-All
+        - Virginia Mason Residents
     value: true
 value: false
