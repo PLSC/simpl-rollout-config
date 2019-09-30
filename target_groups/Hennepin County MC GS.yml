@@ -1,0 +1,7 @@
+type: target-group
+name: Hennepin County MC GS
+description: 'All residents September 30, 2019'
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@hcmed.org'
