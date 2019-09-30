@@ -33,5 +33,6 @@ conditions:
         - All NU Residents
         - Wake Forest-All
         - Virginia Mason Residents
+        - Hennepin County MC GS
     value: true
 value: false
