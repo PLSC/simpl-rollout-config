@@ -1,0 +1,7 @@
+type: target-group
+name: UVA Neurosurg
+description: 'UVA residents Currently only neurosurg October 15, 2019 GW'
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@hscmail.mcc.virginia.edu'
