@@ -34,5 +34,6 @@ conditions:
         - Wake Forest-All
         - Virginia Mason Residents
         - Hennepin County MC GS
+        - UVA Neurosurg
     value: true
 value: false
