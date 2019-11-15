@@ -1,0 +1,7 @@
+type: target-group
+name: Boston MC GS
+description: 'All BMC Residents GW November 15, 2019'
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@bmc.org'
