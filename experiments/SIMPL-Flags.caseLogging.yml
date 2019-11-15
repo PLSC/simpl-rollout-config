@@ -35,5 +35,6 @@ conditions:
         - Virginia Mason Residents
         - Hennepin County MC GS
         - UVA Neurosurg
+        - Boston MC GS
     value: true
 value: false
