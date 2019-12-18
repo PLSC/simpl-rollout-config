@@ -2,6 +2,7 @@
 # URL: https://app.rollout.io/ex/5c82c38a0de22c766f61119d
 type: experiment
 name: vitals study participant
+enabled: false
 flag: SIMPL-Flags.vitalsStudyParticipant
 conditions:
   - group:
