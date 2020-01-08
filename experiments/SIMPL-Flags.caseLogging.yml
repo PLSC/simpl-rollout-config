@@ -36,5 +36,6 @@ conditions:
         - Hennepin County MC GS
         - UVA Neurosurg
         - Boston MC GS
+        - HFHS - all trainees
     value: true
 value: false
