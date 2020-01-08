@@ -1,0 +1,6 @@
+type: target-group
+name: HFHS - all trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@hfhs.org'
