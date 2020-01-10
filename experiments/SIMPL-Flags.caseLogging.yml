@@ -37,5 +37,6 @@ conditions:
         - UVA Neurosurg
         - Boston MC GS
         - HFHS - all trainees
+        - UNC Residents
     value: true
 value: false
