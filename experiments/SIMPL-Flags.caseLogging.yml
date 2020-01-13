@@ -38,5 +38,6 @@ conditions:
         - Boston MC GS
         - HFHS - all trainees
         - UNC Residents
+        - MEEI Trainees
     value: true
 value: false
