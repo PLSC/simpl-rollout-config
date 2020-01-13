@@ -1,0 +1,7 @@
+type: target-group
+name: MEEI Trainees
+description: All MEEI trainees- programID 13
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@meei.harvard.edu'
