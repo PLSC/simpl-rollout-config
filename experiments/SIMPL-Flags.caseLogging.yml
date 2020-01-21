@@ -39,5 +39,6 @@ conditions:
         - HFHS - all trainees
         - UNC Residents
         - MEEI Trainees
+        - Lahey Trainees
     value: true
 value: false
