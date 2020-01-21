@@ -1,0 +1,7 @@
+type: target-group
+name: Lahey Trainees
+description: 'All Lahey GS trainees January 21, 2020 GW'
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@lahey.org'
