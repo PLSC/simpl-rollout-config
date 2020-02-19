@@ -40,5 +40,6 @@ conditions:
         - UNC Residents
         - MEEI Trainees
         - Lahey Trainees
+        - U at Buffalo
     value: true
 value: false
