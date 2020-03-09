@@ -8,6 +8,9 @@ operator: or
 conditions:
   - operator: regex
     property: user_email
+    operand: '@hotmail.com'
+  - operator: regex
+    property: user_email
     operand: '@uic.edu'
   - operator: regex
     property: user_email
