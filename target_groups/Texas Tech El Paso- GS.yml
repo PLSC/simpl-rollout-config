@@ -1,0 +1,7 @@
+type: target-group
+name: Texas Tech El Paso- GS
+description: all ttuep trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@ttuhsc.edu'
