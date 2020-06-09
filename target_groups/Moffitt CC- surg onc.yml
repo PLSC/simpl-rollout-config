@@ -1,0 +1,6 @@
+type: target-group
+name: Moffitt CC- surg onc
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@moffitt.org'
