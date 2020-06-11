@@ -1,0 +1,6 @@
+type: target-group
+name: Vitals Participants
+conditions:
+  - operator: regex
+    property: user_programs
+    operand: General Surgery at University of Michigan

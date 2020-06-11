@@ -1,0 +1,17 @@
+type: target-group
+name: Mich GS Top Ten Residents
+description: Top ten SIMPL self evals from umich in past 6 months as of 2/18/2019
+conditions:
+  - operator: in-array
+    property: user_email
+    operand:
+      - bdecarr@med.umich.edu
+      - sriganes@med.umich.edu
+      - rivardsj@med.umich.edu
+      - maiaand@med.umich.edu
+      - etonr@med.umich.edu
+      - rhow@med.umich.edu
+      - leejay@med.umich.edu
+      - bbredbec@med.umich.edu
+      - rafalv@med.umich.edu
+      - bfallon@med.umich.edu

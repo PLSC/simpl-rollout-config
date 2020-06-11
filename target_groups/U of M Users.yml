@@ -1,0 +1,10 @@
+type: target-group
+name: U of M Users
+operator: or
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@med.umich.edu'
+  - operator: regex
+    property: user_email
+    operand: '@umich.edu'
