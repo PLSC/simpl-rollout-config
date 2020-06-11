@@ -1,5 +1,4 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5c619f8a5cd82d07da62312c
+# This file was edited by Cloudbees Feature Flags
 type: experiment
 name: case logging
 description: ACGME Case Logging Feature
@@ -43,5 +42,6 @@ conditions:
         - U at Buffalo
         - Texas Tech El Paso- GS
         - Moffitt CC- surg onc
+        - Louisville Trainees
     value: true
 value: false
