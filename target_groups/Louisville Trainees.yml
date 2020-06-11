@@ -1,0 +1,6 @@
+type: target-group
+name: Louisville Trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@louisville.edu'

@@ -1,0 +1,6 @@
+type: target-group
+name: All Residents
+conditions:
+  - operator: eq
+    property: user_type
+    operand: 2
