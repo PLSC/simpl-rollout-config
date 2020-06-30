@@ -1,0 +1,6 @@
+type: target-group
+name: Emory Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@emory.edu'
