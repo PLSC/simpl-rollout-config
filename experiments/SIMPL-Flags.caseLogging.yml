@@ -44,5 +44,6 @@ conditions:
         - Moffitt CC- surg onc
         - Louisville Trainees
         - VCU Trainees
+        - Emory Residents
     value: true
 value: false
