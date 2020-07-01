@@ -45,5 +45,6 @@ conditions:
         - Louisville Trainees
         - VCU Trainees
         - Emory Residents
+        - Dignityhealth Trainees
     value: true
 value: false
