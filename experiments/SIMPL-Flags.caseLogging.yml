@@ -46,5 +46,6 @@ conditions:
         - VCU Trainees
         - Emory Residents
         - Dignityhealth Trainees
+        - AHN trainees
     value: true
 value: false
