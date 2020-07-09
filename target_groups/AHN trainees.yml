@@ -1,0 +1,6 @@
+type: target-group
+name: AHN trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@ahn.org'
