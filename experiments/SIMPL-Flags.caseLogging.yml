@@ -47,5 +47,7 @@ conditions:
         - Emory Residents
         - Dignityhealth Trainees
         - AHN trainees
+        - Nebraska Residents
+        - Loma Linda Trainees
     value: true
 value: false
