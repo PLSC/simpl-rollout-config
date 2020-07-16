@@ -1,0 +1,6 @@
+type: target-group
+name: Nebraska Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@unmc.edu'
