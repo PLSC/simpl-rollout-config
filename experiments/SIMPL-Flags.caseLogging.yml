@@ -49,5 +49,6 @@ conditions:
         - AHN trainees
         - Nebraska Residents
         - Loma Linda Trainees
+        - All Residents
     value: true
 value: false
