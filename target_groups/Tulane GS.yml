@@ -1,0 +1,6 @@
+type: target-group
+name: Tulane GS
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@tulane.edu'
