@@ -50,5 +50,6 @@ conditions:
         - Nebraska Residents
         - Loma Linda Trainees
         - All Residents
+        - Tulane GS
     value: true
 value: false
