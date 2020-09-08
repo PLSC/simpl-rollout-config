@@ -51,5 +51,6 @@ conditions:
         - Loma Linda Trainees
         - Tulane GS
         - All Residents
+        - Mount Sinai
     value: true
 value: false
