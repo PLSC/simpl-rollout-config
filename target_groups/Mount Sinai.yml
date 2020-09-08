@@ -1,0 +1,6 @@
+type: target-group
+name: Mount Sinai
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@mountsinai.org'
