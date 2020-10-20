@@ -54,5 +54,6 @@ conditions:
         - Tulane GS
         - Mount Sinai
         - All Residents
+        - Medstar Baltimore trainees
     value: true
 value: false
