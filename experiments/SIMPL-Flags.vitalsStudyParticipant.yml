@@ -1,7 +1,7 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5c7d6fce0fe03576b7dbe55a
+# This file was edited by Cloudbees Feature Flags
 type: experiment
 name: vitals study participant
+description: 'Experiment: vitals study participant'
 flag: SIMPL-Flags.vitalsStudyParticipant
 conditions:
   - group:
