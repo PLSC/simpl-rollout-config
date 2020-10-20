@@ -1,8 +1,9 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5c6326a1af23cf07f9bcf037
+# This file was edited by Cloudbees Feature Flags
 type: experiment
 name: case log records
-description: sending a record of an instance of case logging to the SIMPL backend
+description: |-
+  sending a record of an instance of case logging to the SIMPL backend
+  Experiment: case log records
 flag: SIMPL-Flags.caseLogRecords
 conditions:
   - dependency:

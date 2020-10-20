@@ -1,0 +1,6 @@
+type: target-group
+name: Medstar Baltimore trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@medstar.net'

@@ -1,6 +1,6 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5c619cf7af23cf07f9bcb6b9
+# This file was edited by Cloudbees Feature Flags
 type: experiment
 name: case logging
+description: 'Experiment: case logging'
 flag: SIMPL-Flags.caseLogging
 value: true
