@@ -56,5 +56,6 @@ conditions:
         - All Residents
         - Medstar Baltimore trainees
         - 'Rutgers GS '
+        - UConn GS
     value: true
 value: false
