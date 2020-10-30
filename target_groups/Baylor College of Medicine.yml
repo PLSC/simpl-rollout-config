@@ -1,0 +1,6 @@
+type: target-group
+name: Baylor College of Medicine
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@bcm.edu'
