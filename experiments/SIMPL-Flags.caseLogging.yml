@@ -57,5 +57,6 @@ conditions:
         - 'Rutgers GS '
         - UConn GS
         - Medstar Baltimore trainees
+        - Baylor College of Medicine
     value: true
 value: false
