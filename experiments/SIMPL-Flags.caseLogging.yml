@@ -58,5 +58,6 @@ conditions:
         - UConn GS
         - Medstar Baltimore trainees
         - Baylor College of Medicine
+        - USC Residents
     value: true
 value: false
