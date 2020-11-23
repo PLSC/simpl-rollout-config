@@ -61,5 +61,12 @@ conditions:
         - USC Residents
         - UCLA
         - VA Trainees
+        - Columbia U
+        - Brookdale Hospital MC
+        - MUSC
+        - Eastern Carolina University
+        - U of MD
+        - Military Programs
+        - Stony Brook
     value: true
 value: false
