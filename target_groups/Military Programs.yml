@@ -1,0 +1,6 @@
+type: target-group
+name: Military Programs
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@mail.mil'
