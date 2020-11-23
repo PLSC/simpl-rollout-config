@@ -1,0 +1,6 @@
+type: target-group
+name: VA Trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@va.gov'
