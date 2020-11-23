@@ -59,5 +59,7 @@ conditions:
         - Medstar Baltimore trainees
         - Baylor College of Medicine
         - USC Residents
+        - UCLA
+        - VA Trainees
     value: true
 value: false
