@@ -1,0 +1,6 @@
+type: target-group
+name: Stony Brook
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@stonybrookmedicine.edu'
