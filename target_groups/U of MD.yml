@@ -1,0 +1,6 @@
+type: target-group
+name: U of MD
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@som.umaryland.edu'
