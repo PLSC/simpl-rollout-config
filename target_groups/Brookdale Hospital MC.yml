@@ -1,0 +1,6 @@
+type: target-group
+name: Brookdale Hospital MC
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@bhmcny.org'
