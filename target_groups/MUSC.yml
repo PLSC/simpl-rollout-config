@@ -1,0 +1,6 @@
+type: target-group
+name: MUSC
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@musc.edu'
