@@ -1,0 +1,6 @@
+type: target-group
+name: UCLA
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@mednet.ucla.edu'
