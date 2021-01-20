@@ -68,5 +68,6 @@ conditions:
         - Military Programs
         - Stony Brook
         - Loyola U
+        - U of M Users
     value: true
 value: false
