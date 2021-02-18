@@ -69,5 +69,6 @@ conditions:
         - Stony Brook
         - Loyola U
         - U of M Users
+        - UTSW Residents
     value: true
 value: false
