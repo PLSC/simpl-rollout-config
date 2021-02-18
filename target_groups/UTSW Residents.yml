@@ -1,0 +1,6 @@
+type: target-group
+name: UTSW Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@UTSouthwestern.edu'
