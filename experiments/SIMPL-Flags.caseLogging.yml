@@ -70,5 +70,7 @@ conditions:
         - Loyola U
         - U of M Users
         - UTSW Residents
+        - UCSF Residents
+        - USF Residents
     value: true
 value: false
