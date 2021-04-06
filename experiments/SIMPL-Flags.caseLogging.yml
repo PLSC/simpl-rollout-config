@@ -72,5 +72,7 @@ conditions:
         - UTSW Residents
         - UCSF Residents
         - USF Residents
+        - UF Jacksonville residents
+        - Northeast GA Med Center
     value: true
 value: false
