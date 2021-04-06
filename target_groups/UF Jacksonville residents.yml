@@ -1,0 +1,6 @@
+type: target-group
+name: UF Jacksonville residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@jax.ufl.edu'
