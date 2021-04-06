@@ -1,0 +1,6 @@
+type: target-group
+name: Northeast GA Med Center
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@nghs.com'
