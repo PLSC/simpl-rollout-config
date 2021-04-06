@@ -1,0 +1,6 @@
+type: target-group
+name: UCSF Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@ucsf.edu'
