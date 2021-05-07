@@ -1,4 +1,4 @@
-# This file was edited by Cloudbees Feature Flags
+# This file was edited by Cloudbees Feature Management
 type: experiment
 name: case logging
 description: |-
@@ -74,5 +74,8 @@ conditions:
         - USF Residents
         - UF Jacksonville residents
         - Northeast GA Med Center
+        - UTSW Uro
+        - BCH Ped Uro
+        - UMass GS Trainees
     value: true
 value: false
