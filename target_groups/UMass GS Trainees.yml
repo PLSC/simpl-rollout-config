@@ -1,0 +1,6 @@
+type: target-group
+name: UMass GS Trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@umassmemorial.org'
