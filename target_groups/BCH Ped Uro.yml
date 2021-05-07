@@ -1,0 +1,19 @@
+type: target-group
+name: BCH Ped Uro
+operator: or
+conditions:
+  - operator: regex
+    property: user_email
+    operand: bmc.org
+  - operator: regex
+    property: user_email
+    operand: '@partners.org'
+  - operator: regex
+    property: user_email
+    operand: '@lahey.org'
+  - operator: regex
+    property: user_email
+    operand: '@bwh.harvard.edu'
+  - operator: regex
+    property: user_email
+    operand: '@childrens.harvard.edu'
