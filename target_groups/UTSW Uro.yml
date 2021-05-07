@@ -1,0 +1,10 @@
+type: target-group
+name: UTSW Uro
+operator: or
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@UTsouthwestern.edu'
+  - operator: regex
+    property: user_email
+    operand: '@phhs.org'
