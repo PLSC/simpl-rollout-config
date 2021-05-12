@@ -77,5 +77,6 @@ conditions:
         - UTSW Uro
         - BCH Ped Uro
         - UMass GS Trainees
+        - UCSD Residents
     value: true
 value: false
