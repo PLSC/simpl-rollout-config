@@ -1,0 +1,6 @@
+type: target-group
+name: Bassett  Healthcare GS trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@bassett.org'
