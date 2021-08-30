@@ -1,0 +1,6 @@
+type: target-group
+name: Utah Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@hsc.utah.edu'
