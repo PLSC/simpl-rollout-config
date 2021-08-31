@@ -1,0 +1,6 @@
+type: target-group
+name: Cooperhealth
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@cooperhealth.edu'
