@@ -1,0 +1,6 @@
+type: target-group
+name: UConn
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@hhchealth.org'
