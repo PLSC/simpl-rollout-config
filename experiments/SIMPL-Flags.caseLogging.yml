@@ -82,5 +82,7 @@ conditions:
         - Bassett  Healthcare GS trainees
         - Utah Residents
         - Cooperhealth
+        - UConn
+        - U Colorado
     value: true
 value: false
