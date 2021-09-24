@@ -84,5 +84,6 @@ conditions:
         - Cooperhealth
         - UConn
         - U Colorado
+        - CHOP
     value: true
 value: false
