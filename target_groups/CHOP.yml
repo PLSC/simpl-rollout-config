@@ -1,0 +1,6 @@
+type: target-group
+name: CHOP
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@chop.edu'
