@@ -84,5 +84,6 @@ conditions:
         - UConn
         - U Colorado
         - CHOP
+        - Mount Sinai
     value: true
 value: false
