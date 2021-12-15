@@ -1,0 +1,6 @@
+type: target-group
+name: South Alabama Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@health.southalabama.edu'
