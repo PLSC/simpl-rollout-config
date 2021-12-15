@@ -1,0 +1,6 @@
+type: target-group
+name: DMC Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@dmc.org'
