@@ -8,6 +8,8 @@ flag: SIMPL-Flags.caseLogging
 conditions:
   - group:
       name:
+        - U of M Users
+        - All Residents
         - Mich GS Top Ten Residents
         - Research Standing Committee
         - Other willing testers
@@ -19,9 +21,10 @@ conditions:
         - Ped Surg at BCH
         - Oklahoma- GS
         - GS at University of Florida
-        - Carilion Clinic- GS
         - SUNY Upstate GS residents
+        - Carilion Clinic- GS
         - Ascension Providence Neurosurg
+        - UC-Irvine- GS
         - UPMC Residents
         - SIU users
         - Rochester
@@ -50,10 +53,10 @@ conditions:
         - Nebraska Residents
         - Loma Linda Trainees
         - Tulane GS
-        - All Residents
+        - Mount Sinai
+        - Medstar Baltimore trainees
         - 'Rutgers GS '
         - UConn GS
-        - Medstar Baltimore trainees
         - Baylor College of Medicine
         - USC Residents
         - UCLA
@@ -66,7 +69,6 @@ conditions:
         - Military Programs
         - Stony Brook
         - Loyola U
-        - U of M Users
         - UTSW Residents
         - UCSF Residents
         - USF Residents
@@ -76,7 +78,6 @@ conditions:
         - BCH Ped Uro
         - UMass GS Trainees
         - UCSD Residents
-        - UC-Irvine- GS
         - East Carolina University
         - Bassett  Healthcare GS trainees
         - Utah Residents
@@ -84,7 +85,9 @@ conditions:
         - UConn
         - U Colorado
         - CHOP
-        - Mount Sinai
         - North Dakota Residents
+        - Missouri Residents
+        - FAU Residents
+        - South Alabama Residents
     value: true
 value: false
