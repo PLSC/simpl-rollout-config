@@ -1,0 +1,6 @@
+type: target-group
+name: Missouri Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@health.missouri.edu'
