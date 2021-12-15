@@ -89,5 +89,9 @@ conditions:
         - Missouri Residents
         - FAU Residents
         - South Alabama Residents
+        - Amita Health
+        - SCL St. Joseph Colorado
+        - DMC Residents
+        - Mayo Residents
     value: true
 value: false
