@@ -1,0 +1,6 @@
+type: target-group
+name: Mayo Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@mayo.edu'
