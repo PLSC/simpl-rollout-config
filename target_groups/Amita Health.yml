@@ -1,0 +1,6 @@
+type: target-group
+name: Amita Health
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@amitahealth.org'
