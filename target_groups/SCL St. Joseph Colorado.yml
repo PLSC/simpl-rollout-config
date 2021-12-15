@@ -1,0 +1,6 @@
+type: target-group
+name: SCL St. Joseph Colorado
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@sclhealth.org'
