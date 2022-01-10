@@ -1,0 +1,6 @@
+type: target-group
+name: U of AZ residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@bannerhealth.com'
