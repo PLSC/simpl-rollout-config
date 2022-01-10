@@ -1,0 +1,6 @@
+type: target-group
+name: LSU Trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@lsuhsc.edu'
