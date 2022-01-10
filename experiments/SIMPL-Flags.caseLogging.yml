@@ -93,5 +93,7 @@ conditions:
         - SCL St. Joseph Colorado
         - DMC Residents
         - Mayo Residents
+        - LSU Trainees
+        - U of AZ residents
     value: true
 value: false
