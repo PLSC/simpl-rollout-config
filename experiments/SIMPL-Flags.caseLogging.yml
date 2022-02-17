@@ -95,5 +95,7 @@ conditions:
         - Mayo Residents
         - LSU Trainees
         - U of AZ residents
+        - MCW Trainees
+        - Northwell trainees
     value: true
 value: false
