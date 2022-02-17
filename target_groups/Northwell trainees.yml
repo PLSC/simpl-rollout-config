@@ -1,0 +1,6 @@
+type: target-group
+name: Northwell trainees
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@northwell.edu'
