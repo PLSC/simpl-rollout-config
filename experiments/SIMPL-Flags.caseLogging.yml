@@ -97,5 +97,7 @@ conditions:
         - U of AZ residents
         - MCW Trainees
         - Northwell trainees
+        - Johns Hopkins
+        - demo program
     value: true
 value: false
