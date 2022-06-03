@@ -1,0 +1,6 @@
+type: target-group
+name: Parkview GS
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@parkview.com'
