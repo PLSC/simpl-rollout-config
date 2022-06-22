@@ -1,4 +1,4 @@
-# This file was edited by Cloudbees Feature Management
+# This file was edited by CloudBees Feature Management
 type: experiment
 name: case logging
 description: |-
@@ -100,5 +100,6 @@ conditions:
         - Johns Hopkins
         - demo program
         - Parkview GS
+        - Geisinger
     value: true
 value: false
