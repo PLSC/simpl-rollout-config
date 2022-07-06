@@ -101,5 +101,6 @@ conditions:
         - demo program
         - Parkview GS
         - Geisinger
+        - Beth Israel Deaconess Medical Center (BIDMC)
     value: true
 value: false
