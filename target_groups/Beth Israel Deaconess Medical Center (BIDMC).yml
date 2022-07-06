@@ -1,0 +1,6 @@
+type: target-group
+name: Beth Israel Deaconess Medical Center (BIDMC)
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@bidmc.harvard.edu'
