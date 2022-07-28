@@ -102,5 +102,6 @@ conditions:
         - Parkview GS
         - Geisinger
         - Beth Israel Deaconess Medical Center (BIDMC)
+        - Rush U
     value: true
 value: false
