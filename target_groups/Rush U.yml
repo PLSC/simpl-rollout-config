@@ -1,0 +1,6 @@
+type: target-group
+name: Rush U
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@rush.edu'
