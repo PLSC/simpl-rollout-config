@@ -1,0 +1,6 @@
+type: target-group
+name: UTMB
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@utmb.edu'
