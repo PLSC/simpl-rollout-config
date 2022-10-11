@@ -1,0 +1,6 @@
+type: target-group
+name: MD Anderson
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@mdanderson.org'
