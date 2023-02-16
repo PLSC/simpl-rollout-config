@@ -1,0 +1,6 @@
+type: target-group
+name: Mercy Residents
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@mercy.org'
