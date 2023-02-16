@@ -1,0 +1,6 @@
+type: target-group
+name: UM Health West
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@umhealthwest.org'
