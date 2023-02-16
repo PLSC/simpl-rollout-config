@@ -106,5 +106,9 @@ conditions:
         - UTMB
         - MD Anderson
         - Virginia Mason Other emails
+        - CMich residents
+        - Mercy Residents
+        - UM Health West
+        - Rush U GS
     value: true
 value: false
