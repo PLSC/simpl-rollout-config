@@ -1,0 +1,6 @@
+type: target-group
+name: Virginia Mason Other emails
+conditions:
+  - operator: regex
+    property: user_email
+    operand: '@commonspirit.org'
