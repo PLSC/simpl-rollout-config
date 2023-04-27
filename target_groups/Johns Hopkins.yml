@@ -4,6 +4,9 @@ operator: or
 conditions:
   - operator: regex
     property: user_email
+    operand: '@jh.edu'
+  - operator: regex
+    property: user_email
     operand: '@jhu.edu'
   - operator: regex
     property: user_email
